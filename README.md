@@ -7,3 +7,4 @@ This repo includes projects in the TimeHacks category.
 
 Books List: select a menu of books. Uses React-Redux.
 
+Decision-App: like Post-It notes. Add notes. Delete notes. Computer tells you randome task to get done.
